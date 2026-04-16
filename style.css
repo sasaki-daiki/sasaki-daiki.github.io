@@ -73,6 +73,10 @@ img {
   color: #666;
 }
 
+.nowrap {
+  white-space: nowrap;
+}
+
 @media screen and (max-width: 700px) {
   .main {
     flex-direction: column;
